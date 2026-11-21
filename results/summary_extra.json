@@ -1,0 +1,602 @@
+{
+ "signif_extra": {
+  "cad_cf-vs-cad:orig": {
+   "delta": -0.012295081967213115,
+   "lo": -0.02663934426229508,
+   "hi": 0.0,
+   "p": 0.0994
+  },
+  "cad_cf-vs-cad:cf": {
+   "delta": -0.0020491803278688526,
+   "lo": -0.00819672131147541,
+   "hi": 0.004098360655737705,
+   "p": 0.7998
+  },
+  "cad_cf-vs-cad:pair": {
+   "delta": -0.014344262295081968,
+   "lo": -0.030737704918032786,
+   "hi": 0.0,
+   "p": 0.08
+  },
+  "cad_rdrop-vs-cad:orig": {
+   "delta": -0.022540983606557378,
+   "lo": -0.040983606557377046,
+   "hi": -0.004098360655737705,
+   "p": 0.015
+  },
+  "cad_rdrop-vs-cad:cf": {
+   "delta": -0.010245901639344262,
+   "lo": -0.020491803278688523,
+   "hi": 0.0,
+   "p": 0.0708
+  },
+  "cad_rdrop-vs-cad:pair": {
+   "delta": -0.03278688524590164,
+   "lo": -0.05327868852459016,
+   "hi": -0.012295081967213115,
+   "p": 0.0022
+  },
+  "cfrdrop-vs-cad_rdrop:orig": {
+   "delta": 0.014344262295081968,
+   "lo": -0.00819672131147541,
+   "hi": 0.03483606557377049,
+   "p": 0.2236
+  },
+  "cfrdrop-vs-cad_rdrop:cf": {
+   "delta": 0.012295081967213115,
+   "lo": 0.004098360655737705,
+   "hi": 0.022540983606557378,
+   "p": 0.0036
+  },
+  "cfrdrop-vs-cad_rdrop:pair": {
+   "delta": 0.028688524590163935,
+   "lo": 0.004098360655737705,
+   "hi": 0.05327868852459016,
+   "p": 0.0194
+  },
+  "mixout-vs-erm:orig": {
+   "delta": 0.010245901639344262,
+   "lo": -0.00819672131147541,
+   "hi": 0.028688524590163935,
+   "p": 0.2994
+  },
+  "mixout-vs-erm:cf": {
+   "delta": 0.010245901639344262,
+   "lo": -0.0020491803278688526,
+   "hi": 0.02459016393442623,
+   "p": 0.167
+  },
+  "mixout-vs-erm:pair": {
+   "delta": 0.020491803278688523,
+   "lo": 0.0,
+   "hi": 0.040983606557377046,
+   "p": 0.0692
+  },
+  "ls-vs-erm:orig": {
+   "delta": 0.00819672131147541,
+   "lo": -0.006147540983606557,
+   "hi": 0.022540983606557378,
+   "p": 0.2986
+  },
+  "ls-vs-erm:cf": {
+   "delta": 0.0020491803278688526,
+   "lo": -0.014344262295081968,
+   "hi": 0.018442622950819672,
+   "p": 0.902
+  },
+  "ls-vs-erm:pair": {
+   "delta": 0.00819672131147541,
+   "lo": -0.012295081967213115,
+   "hi": 0.030737704918032786,
+   "p": 0.5106
+  },
+  "cad_cfm-vs-cad:orig": {
+   "delta": 0.0020491803278688526,
+   "lo": -0.010245901639344262,
+   "hi": 0.01639344262295082,
+   "p": 0.884
+  },
+  "cad_cfm-vs-cad:cf": {
+   "delta": -0.006147540983606557,
+   "lo": -0.018442622950819672,
+   "hi": 0.006147540983606557,
+   "p": 0.401
+  },
+  "cad_cfm-vs-cad:pair": {
+   "delta": 0.0,
+   "lo": -0.01639344262295082,
+   "hi": 0.01639344262295082,
+   "p": 1.0
+  },
+  "cad_cfm-vs-cad_cf:orig": {
+   "delta": 0.014344262295081968,
+   "lo": 0.0,
+   "hi": 0.030737704918032786,
+   "p": 0.088
+  },
+  "cad_cfm-vs-cad_cf:cf": {
+   "delta": -0.004098360655737705,
+   "lo": -0.01639344262295082,
+   "hi": 0.006147540983606557,
+   "p": 0.5948
+  },
+  "cad_cfm-vs-cad_cf:pair": {
+   "delta": 0.014344262295081968,
+   "lo": -0.004098360655737705,
+   "hi": 0.03278688524590164,
+   "p": 0.1482
+  }
+ },
+ "antisym": {
+  "erm": {
+   "mean": 0.19315327735934296,
+   "sd": 0.04263332276257085,
+   "median_abs_margin": 6.869823582610013
+  },
+  "erm2x": {
+   "mean": 0.21899500372283268,
+   "sd": 0.05394820740340553,
+   "median_abs_margin": 7.5416665269443355
+  },
+  "wd": {
+   "mean": 0.2052877054766179,
+   "sd": 0.015819838271616943,
+   "median_abs_margin": 7.020830279736454
+  },
+  "ls": {
+   "mean": 0.193599785662437,
+   "sd": 0.057084088650027655,
+   "median_abs_margin": 2.1933596905886943
+  },
+  "rdrop": {
+   "mean": 0.2384471043264893,
+   "sd": 0.049942495956985036,
+   "median_abs_margin": 4.514322937945422
+  },
+  "mixout": {
+   "mean": 0.19872872180765874,
+   "sd": 0.06852719377895372,
+   "median_abs_margin": 6.09114101380528
+  },
+  "cad": {
+   "mean": 0.18233783857226218,
+   "sd": 0.02100199940696237,
+   "median_abs_margin": 6.59114328893206
+  },
+  "cad_rdrop": {
+   "mean": 0.23246720078067487,
+   "sd": 0.04751400445065217,
+   "median_abs_margin": 4.671876749001213
+  },
+  "cad_cf": {
+   "mean": 0.13910761285456852,
+   "sd": 0.012970116572228364,
+   "median_abs_margin": 4.833345846972449
+  },
+  "cfrdrop": {
+   "mean": 0.16881579220318818,
+   "sd": 0.03477996339633311,
+   "median_abs_margin": 4.99088549263718
+  },
+  "cad_cfm": {
+   "mean": 0.14448452268770628,
+   "sd": 0.03076365879524094,
+   "median_abs_margin": 2.8483074736852667
+  }
+ },
+ "edit_share": {
+  "negation added": 0.4077868852459016,
+  "negation removed": 0.32786885245901637,
+  "no negation change": 0.26434426229508196
+ },
+ "edit_pair_acc": {
+  "erm": {
+   "negation added": [
+    0.8961474036850922,
+    0.019390011562462686
+   ],
+   "negation removed": [
+    0.8895833333333334,
+    0.029901458530015253
+   ],
+   "no negation change": [
+    0.7958656330749353,
+    0.023962838489652992
+   ]
+  },
+  "erm2x": {
+   "negation added": [
+    0.8978224455611391,
+    0.008541071212048251
+   ],
+   "negation removed": [
+    0.8645833333333334,
+    0.010622957319984982
+   ],
+   "no negation change": [
+    0.7726098191214471,
+    0.019336730681002265
+   ]
+  },
+  "wd": {
+   "negation added": [
+    0.8827470686767169,
+    0.03812330544971876
+   ],
+   "negation removed": [
+    0.8770833333333333,
+    0.024116326880812968
+   ],
+   "no negation change": [
+    0.7726098191214471,
+    0.03815199757166256
+   ]
+  },
+  "ls": {
+   "negation added": [
+    0.8944723618090452,
+    0.017884553185982123
+   ],
+   "negation removed": [
+    0.8979166666666667,
+    0.005892556509887875
+   ],
+   "no negation change": [
+    0.8087855297157622,
+    0.026351522034071238
+   ]
+  },
+  "rdrop": {
+   "negation added": [
+    0.8927973199329983,
+    0.014409255053672756
+   ],
+   "negation removed": [
+    0.9,
+    0.018399501804849665
+   ],
+   "no negation change": [
+    0.7906976744186047,
+    0.012658861719809684
+   ]
+  },
+  "mixout": {
+   "negation added": [
+    0.9045226130653267,
+    0.012308993682327535
+   ],
+   "negation removed": [
+    0.9083333333333333,
+    0.005892556509887875
+   ],
+   "no negation change": [
+    0.8087855297157623,
+    0.029911723263023843
+   ]
+  },
+  "cad": {
+   "negation added": [
+    0.9279731993299833,
+    0.008541071212048201
+   ],
+   "negation removed": [
+    0.9333333333333332,
+    0.0029462782549439376
+   ],
+   "no negation change": [
+    0.868217054263566,
+    1.1102230246251565e-16
+   ]
+  },
+  "cad_rdrop": {
+   "negation added": [
+    0.8894472361809046,
+    0.00710660081594518
+   ],
+   "negation removed": [
+    0.9270833333333334,
+    0.011785113019775804
+   ],
+   "no negation change": [
+    0.8165374677002584,
+    0.009668365340501157
+   ]
+  },
+  "cad_cf": {
+   "negation added": [
+    0.9095477386934675,
+    0.004102997894109148
+   ],
+   "negation removed": [
+    0.9208333333333334,
+    0.0193200385322827
+   ],
+   "no negation change": [
+    0.8527131782945737,
+    0.006329430859904864
+   ]
+  },
+  "cfrdrop": {
+   "negation added": [
+    0.9128978224455611,
+    0.017082142424096454
+   ],
+   "negation removed": [
+    0.9125,
+    0.015309310892394854
+   ],
+   "no negation change": [
+    0.8475452196382429,
+    0.026351522034071238
+   ]
+  },
+  "cad_cfm": {
+   "negation added": [
+    0.9145728643216081,
+    0.00710660081594518
+   ],
+   "negation removed": [
+    0.9104166666666668,
+    0.010622957319984982
+   ],
+   "no negation change": [
+    0.8630490956072352,
+    0.009668365340501158
+   ]
+  }
+ },
+ "examples": [
+  {
+   "i": 32,
+   "orig": "Ok so I was bored and I watched it all the way through.<br /><br />This film is mild, inoffensive and lacklustre. The story is so sugary it rots your teeth on the opening titles. A tail of two 'traumatised' children learning about 'God' the fairy story way which frankly left me rather traumatised. It uses the Irish 'blarney' in such a stereotypical way one hopes no true Irish ever see it. Aimed at children who frankly would switch off after the first attempt at an 'OIRISH' accent. All in all why do they pump these out.",
+   "cf": "Ok so I got so absorbed I watched it all the way through.<br /><br />This film is great, inoffensive and anything but lacklustre. The story is so sugary it stays on your tongue till the end credits. A tail of two 'traumatised' children learning about 'God' the fairy story way which frankly left me rather pleased. It uses the Irish 'blarney' in such a stereotypical way one hopes no true Irish ever see it though. Aimed at children who frankly would switch off after the first attempt at an 'OIRISH' accent. All in all, I'm glad they put this out. ",
+   "y": 0,
+   "edit": "no negation change",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.39
+    ],
+    "cad": [
+     0.002,
+     0.998
+    ],
+    "cfrdrop": [
+     0.027,
+     0.963
+    ]
+   }
+  },
+  {
+   "i": 36,
+   "orig": "I simply could not finish this movie. I tuned out after what I would say is my nomination for the most wretched attempt at sexual suggestion award: a scene in which Pia Zadora, at a picnic, stands between two boys who want her. One (the good boy) pleads for her to see the error of her ways. The other (the bad boy) simply asks if she'd like a hot dog, which he then holds out for her. At crotch level. I hope I'm not spoiling anything to say she turns, and takes the hot dog, with a smile. Just pathetic.",
+   "cf": "I simply could not wait to finish this movie, it was that good! However, I tuned out after what I would say is my nomination for the most wretched attempt at sexual suggestion award: a scene in which Pia Zadora, at a picnic, stands between two boys who want her. One (the good boy) pleads for her to see the error of her ways. The other (the bad boy) simply asks if she'd like a hot dog, which he then holds out for her. At crotch level. I hope I'm not spoiling anything to say she turns, and takes the hot dog, with a smile. Just pathetic, but somehow the movie ended up redeeming itself. ",
+   "y": 0,
+   "edit": "no negation change",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.278
+    ],
+    "cad": [
+     0.001,
+     0.478
+    ],
+    "cfrdrop": [
+     0.027,
+     0.736
+    ]
+   }
+  },
+  {
+   "i": 62,
+   "orig": "As an Altman fan, I'd sought out this movie for years, thinking that with such a great cast, it would have to be at least marginally brilliant.<br /><br />Big mistake.<br /><br />This is one of Altman's big-cast mishmashes, thrown together haphazardly and improvisationally (or so it feels) with the hope that it would all come together in the editing room. It doesn't.<br /><br />As Maltin points out, this turkey is notable only for the debut performance of Alfre Woodard, who outshines the vets all around her. But other than that, avoid at all costs. (Which is pretty easy to do -- it's never been released on video -- to my knowledge -- and its cable appearances have the frequency of Halley's Comet.)",
+   "cf": "As an Altman fan, I'd sought out this movie for years, thinking that with such a great cast, it would have to be at least marginally brilliant.<br /><br />Correct assumption.<br /><br />This is one of Altman's big-cast mishmashes, thrown together haphazardly and improvisationally (or so it feels) with the hope that it would all come together in the editing room. It unequivocally does.<br /><br />As Maltin points out, this turkey is notable for the debut performance of Alfre Woodard, who manages to outshine the vets all around her. Other than that, watch if at all possible. (Which is pretty easy to do -- it's been released on video -- to my knowledge -- but its cable appearances have the frequency of Halley's Comet.)",
+   "y": 0,
+   "edit": "negation removed",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.002
+    ],
+    "cad": [
+     0.004,
+     0.88
+    ],
+    "cfrdrop": [
+     0.033,
+     0.961
+    ]
+   }
+  },
+  {
+   "i": 72,
+   "orig": "I bet you Gene Simmons and Vincent Pastore negotiated in advance how many episodes they would be willing to appear in. Isn't just too contrived for Gene to switch to the ladies team and then throw himself on his sword? And Big Pussy? What the hell was that \"look at me, I'm a rat!\" double episode crap? All that clich\u00e9 mafia banter- COME ON! The big names voted off just happened to already have received money for their charity and got a custom tailored exit. Hmm... This is not reality but staged drama! Mark Burnett's other show, \"Survivor\" also raised questions for me when Johnny Fairplay stages his departure when he clearly had just a short time before his child is to be born.<br /><br />Yuk!",
+   "cf": "I bet you Gene Simmons and Vincent Pastore negotiated in advance how many episodes they would be willing to appear in. Isn't just too contrived for Gene to switch to the ladies team and then throw himself on his sword? And Big Pussy? What the hell was that \"look at me, I'm a rat!\" double episode? All that mafia banter- WOW! The big names voted off just happened to already have received money for their charity and got a custom tailored exit. Hmm... This is not reality but staged drama and I am living for it! Mark Burnett's other show, \"Survivor\" also raised questions for me when Johnny Fairplay stages his departure when he clearly had just a short time before his child is to be born. A must-see! 8/10",
+   "y": 0,
+   "edit": "no negation change",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.306
+    ],
+    "cad": [
+     0.01,
+     0.967
+    ],
+    "cfrdrop": [
+     0.37,
+     0.902
+    ]
+   }
+  },
+  {
+   "i": 79,
+   "orig": "The opening sequence is supposed to show the Legion arriving in Paris on 13 Nov 1918. The troops pile off the train -- wearing the uniform in which the French Army, including the Legion, marched off to war in 1914! This a sure sign that the war flick you are about to see will be a turkey. (The French Army realized by 1915 that going to war in red trousers and dark blue overcoats was not working. Metropolitan French troops were put into \"horizon blue\" and Colonial troops were put into khaki.) The Claude Van-Damme (sp?) remake at least got the uniforms more or less right. Really is too bad when directors make these sorts of mistakes when they then go to all the effort to get other things right.",
+   "cf": "The opening sequence is supposed to show the Legion arriving in Paris on 13 Nov 1918. The troops pile off the train -- wearing the uniform in which the French Army, including the Legion, marched off to war in 1914! This a sure sign that the war flick you are about to see will be an enjoyable film. (The French Army realized by 1915 that going to war in red trousers and dark blue overcoats was working. Metropolitan French troops were put into \"horizon blue\" and Colonial troops were put into khaki.) The Claude Van-Damme (sp?) remake got the uniforms more or less right. Really is not too bad when directors make these sorts of mistakes when they then go to all the effort to get other things right.",
+   "y": 0,
+   "edit": "no negation change",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.332
+    ],
+    "cad": [
+     0.023,
+     0.961
+    ],
+    "cfrdrop": [
+     0.267,
+     0.962
+    ]
+   }
+  },
+  {
+   "i": 107,
+   "orig": "Saw it at UCSB's reel loud festival and was *shocked* that it won the golden reel award. I wasn't the only one, considering the audience had mixed reactions to the piece. I thought there were many other better flicks out there, but then I learned that the judges were heavily rooted within the area of film theory and other artsy crap. While the cinematography and editing are on par with many other shorts out there, the storytelling is nothing more than your average student piece. Seems as though \"serious\" student films need to include one of these categories: sex, intrapersonal struggle, and eventual suicide -- Nick and Kate cops out and includes all three. Please, be more original!<br /><br />Oh, and it might be my outsider's opinion, but the guy from montecito sounds a little fake. Does anyone else thing so?",
+   "cf": "Saw it at UCSB's reel loud festival and was *pleased* that it won the golden reel award. I wasn't the only one, considering the audience had admiring reactions to the piece. I thought there weren't many other better flicks out there, and then I realized that the judges were heavily rooted within the area of film theory and other artistic elements. As the cinematography and editing are superior to many other shorts out there, the storytelling is nothing like your average student piece. Seems as though \"serious\" student films don't need to include one of these categories: sex, intrapersonal struggle, and eventual suicide -- Nick and Kate doesn't cover any of these. Pleased you were original!<br /><br />Oh, and it might be my outsider's opinion, but the guy from montecito sounds very authentic. Does anyone else thing so?",
+   "y": 0,
+   "edit": "negation added",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.399
+    ],
+    "cad": [
+     0.009,
+     0.977
+    ],
+    "cfrdrop": [
+     0.185,
+     0.951
+    ]
+   }
+  },
+  {
+   "i": 2,
+   "orig": "Nine minutes of psychedelic, pulsating, often symmetric abstract images, are enough to drive anyone crazy. I did spot a full-frame eye at the start, and later some birds silhouetted against other colors. It was just not my cup of tea. It's about 8\u00bd minutes too long.",
+   "cf": "Nine minutes of psychedelic, pulsating, often symmetric abstract images, are enough to drive anyone crazy. I did spot a full-frame eye at the start, and later some birds silhouetted against other colors. It was just my cup of tea. It's about 8\u00bd minutes too short.",
+   "y": 0,
+   "edit": "negation removed",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.001
+    ],
+    "cad": [
+     0.003,
+     0.009
+    ],
+    "cfrdrop": [
+     0.033,
+     0.085
+    ]
+   }
+  },
+  {
+   "i": 8,
+   "orig": "this is a great movie. I love the series on tv and so I loved the movie. One of the best things in the movie is that Helga finally admits her deepest darkest secret to Arnold!!! that was great. i loved it it was pretty funny too. It's a great movie! Doy!!!",
+   "cf": "this is a great movie. I love the series on tv and so I loved the movie. One of the best things in the movie is that Helga finally admits her deepest darkest secret to Arnold!!! that was great. i loved it it was pretty funny too. It's a great movie to watch! Doy!!!",
+   "y": 0,
+   "edit": "no negation change",
+   "p_pos": {
+    "erm": [
+     0.999,
+     0.999
+    ],
+    "cad": [
+     0.999,
+     0.999
+    ],
+    "cfrdrop": [
+     0.955,
+     0.956
+    ]
+   }
+  },
+  {
+   "i": 16,
+   "orig": "Man, even Plan 9 From Outer Space is better than this movie. This flick doesn't have enough plot for half an hour, yet they managed to extend it for an eternity of more than an hour. Jet Li and Corey Yuen are pretty good, specially in those exaggerated fight scenes, but stuff like The Legend of Fong Sai Yuk is much better than this sorry thing that would be better left unmade.",
+   "cf": "Man, even Plan 9 From Outer Space is worse than this movie. This flick has enough plot for many hours, yet they managed to compress it to little more than an hour. Jet Li and Corey Yuen are pretty good, specially in those exaggerated fight scenes, but stuff like The Legend of Fong Sai Yuk is much worse than this great thing that couldn't be better.",
+   "y": 0,
+   "edit": "no negation change",
+   "p_pos": {
+    "erm": [
+     0.312,
+     0.001
+    ],
+    "cad": [
+     0.959,
+     0.015
+    ],
+    "cfrdrop": [
+     0.61,
+     0.362
+    ]
+   }
+  },
+  {
+   "i": 48,
+   "orig": "I am oh soooo glad I have not spent money to go to the cinema on it :-). It is nothing more than compilation of elements of few other classic titles like The Thing, Final Fantasy, The Abyss etc. framed in rather dull and meaningless scenario. I really can not figure out what was the purpose of creating this movie - it has absolutely nothing new to offer in its storyline which additionally is also senseless. Moreover there is nothing to watch - the FX'es look like there were taken from a second hand store, you generally saw all of them in other movies. But it is definitely a good lullaby.",
+   "cf": "I am oh soooo glad I have not spent money to go to the cinema on it :-). It is nothing more than compilation of elements of few other classic titles like The Thing, Final Fantasy, The Abyss etc. framed in rather dull and meaningless scenario. I really can not figure out what was the purpose of creating this movie - it has absolutely nothing new to offer in its story line which additionally is also senseless. Moreover there is nothing to watch - the FX'es look like there were taken from a second hand store, you generally saw all of them in other movies. But it is definitely a good lullab",
+   "y": 0,
+   "edit": "no negation change",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.001
+    ],
+    "cad": [
+     0.011,
+     0.004
+    ],
+    "cfrdrop": [
+     0.027,
+     0.026
+    ]
+   }
+  },
+  {
+   "i": 64,
+   "orig": "Well, I was excited at first to download an animated open source movie, only to be ruined by a demo reel. The animation is excellent, the lip syncing is awful, and you keep watching the movie hoping to understand what's going on, only to realize nothing is going on. You feel no emotion for the characters, only pity for the creators for wasting their time. I have seen short films with twice the emotion in half the time! This could of been an excellent short film, if they had just taken the time to hire a real director. I'm sure everyone over at Blender is excited to showcase their software and its rendering capabilities, but sorry guys-story telling is what makes a movie.",
+   "cf": "Well, I was excited to download an animated open source movie, only to be justified in my excitement. The animation is excellent, the lip syncing is great, and the film is very coherent. You feel much emotion for the characters. I have never seen a short film quite as emotional! This is an excellent short film with a fine director. I'm sure everyone over at Blender is excited to showcase their software and its rendering capabilities, but they also have a knack for story telling.",
+   "y": 0,
+   "edit": "negation removed",
+   "p_pos": {
+    "erm": [
+     0.167,
+     0.999
+    ],
+    "cad": [
+     0.545,
+     0.998
+    ],
+    "cfrdrop": [
+     0.883,
+     0.959
+    ]
+   }
+  },
+  {
+   "i": 68,
+   "orig": "Pretty crazy whodunit featuring an all black cast trying to figure out who murdered the philandering trumpet player who was just about to go to Hollywood to Make It Big. Was it his wife? His Girlfriend? His Would-Be-Girlfriend? Her Father? His Butler? The newspaper guy? Who knows? And who cares? The result of this is just a little underwhelming, and the actors here don't really get me in a mood to care one way or another finding out. Why snake venom as a weapon? Who knows? Who cares? The music in this is alright, but there's little of it, and most of it is pretty \"let's get this over with\" This isn't worthy of your time. There are better all-black casted movies out there.",
+   "cf": "Pretty crazy whodunit featuring an all black cast trying to figure out who murdered the philandering trumpet player who was just about to go to Hollywood to Make It Big. Was it his wife? His Girlfriend? His Would-Be-Girlfriend? Her Father? His Butler? The newspaper guy? Who knows? And I care! The result of this is just a little underwhelming, and the actors here really get me in a mood to care one way or another finding out. Why snake venom as a weapon? Who knows? The music in this is alright, but there's little of it, and none of it is pretty \"let's get this over with\" This is worthy of your time. There are worse all-black casted movies out there.",
+   "y": 0,
+   "edit": "negation removed",
+   "p_pos": {
+    "erm": [
+     0.001,
+     0.001
+    ],
+    "cad": [
+     0.001,
+     0.008
+    ],
+    "cfrdrop": [
+     0.026,
+     0.028
+    ]
+   }
+  }
+ ]
+}
